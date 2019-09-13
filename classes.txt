@@ -1,0 +1,16 @@
+"Dog"
+
+Attributes
+1) breed (string)
+2) knows_sit_command (boolean)
+3) likes_belly_rubs (boolean)
+4) sex (string)
+5) walks_taken (integer)
+6) last_walk (date)
+7) treats_eaten (integer)
+
+Methods
+1) learn_sit (modifies knows_sit_command attribute)
+2) eats_treat (increases treats_eaten attribute by 1)
+3) gets_walked (modifies last_walk attribute)
+4) calculate_treats_per_walk (divides treats_eaten by walks_taken)
