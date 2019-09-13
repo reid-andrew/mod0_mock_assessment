@@ -1,0 +1,34 @@
+"Instances of Dog Class"
+
+
+1) Henry Porter
+  Attributes
+  1) breed - Cattle Dog/Labrador Retriever
+  2) knows_sit_command - true
+  3) likes_belly_rubs - true
+  4) sex - male
+  5) walks_taken - 348
+  6) last_walk - 09/10/2019
+  7) treats_eaten - 1092
+
+  Methods
+  1) learn_sit - knows_sit_command = true
+  2) eats_treat - 1092 + 1 = 1093
+  3) gets_walked - last_walk = 09/11/2019
+  4) calculate_treats_per_walk 1093 / 348 = 3.14
+
+2) Feather
+  Attributes
+  1) breed - Cattle Dog
+  2) knows_sit_command - false
+  3) likes_belly_rubs - true
+  4) sex - female
+  5) walks_taken - 562
+  6) last_walk - 09/12/2019
+  7) treats_eaten - 899
+
+  Methods
+  1) learn_sit - knows_sit_command = true
+  2) eats_treat - 899 + 1 = 900
+  3) gets_walked - last_walk = 09/12/2019
+  4) calculate_treats_per_walk 900 / 562 = 1.60
