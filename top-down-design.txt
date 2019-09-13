@@ -1,0 +1,48 @@
+"Making a sandwich"
+
+1 Prepare Bread
+  1.1 Select bread from cupboard
+  1.2 Slice bread
+  1.3 Put Remaining Bread Away
+2 Prepare Meat
+  2.1 Select meat from fridge
+  2.2 Select knife from knife rack
+  2.3 Slice meat
+  2.4 Put remaining meat away
+3 Prepare Cheese
+  3.1 Select cheese from fridge
+  3.2 Select knife from knife rack
+  3.3 Slice cheese
+  3.4 Put remaining cheese away
+4 Prepare Vegetables
+  4.1 Prepare lettuce
+    4.1.1 Get lettuce from fridge
+    4.1.2 Pull leaves off lettuce head
+    4.1.3 Wash lettuce leaves
+    4.1.4 Dry lettuce leaves
+    4.1.5 Put remaining lettuce away
+  4.2 Prepare tomatoes
+    4.2.1 Select tomato from counter
+    4.2.2 Slice tomato
+    4.2.3 Put remaining tomato away
+5 Gather condiments
+  5.1 Collect mustard
+    5.1.1 Get bottle from fridge
+    5.1.2 Shake bottle
+  5.2 Collect pickles
+    5.2.1 Get pickle jar from fridge
+    5.2.2 Get pickle slices from jar
+6 Assemble
+  6.1 Spread mustard on bread
+  6.2 Put meat on bread
+  6.3 Put cheese on Meat
+  6.4 Put condiments & vegetables on Sandwich
+    6.4.1 Put lettuce on Sandwich
+    6.4.2 Put tomato on Sandwich
+    6.4.2 Put pickeles on Sandwich
+  6.5 Put top slice of bread on sandwich
+7 Eat
+  7.1 Open Mouth
+  7.2 Insert Sandwich
+  7.3 Chew
+  7.4 Smile
